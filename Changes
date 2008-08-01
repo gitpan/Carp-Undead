@@ -1,4 +1,7 @@
 Revision history for Perl extension Carp::Undead
 
+0.02    01 Aug 2008
+        - pod update (Misspelling)
+
 0.01    31 Jul 2008
-        - inisial release 
+        - initial release 

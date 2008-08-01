@@ -2,7 +2,7 @@ package Carp::Undead;
 
 use strict;
 use warnings;
-our $VERSION = '0.00001';
+our $VERSION = '0.00002';
 
 use Carp qw( carp );
 
@@ -14,7 +14,7 @@ __END__
 
 =head1 NAME
 
-Carp::Undead - override die function nad warn function;
+Carp::Undead - override die function and warn function;
 
 =head1 SYNOPSIS
 
