@@ -2,7 +2,7 @@ package Carp::Undead;
 
 use strict;
 use warnings;
-our $VERSION = '0.00002';
+our $VERSION = '0.00003';
 
 use Carp qw( carp );
 
